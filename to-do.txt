@@ -1,0 +1,26 @@
+To do:
+    [ BACKLOG ]
+    - algorithms:
+        - huffman encoding (not bad)
+        - KMP algorithm (not bad actually)
+        - sorts:
+            - merge sort
+            - bucket sort
+            - radix sort
+            - something for the linked list
+        - dynamic programming:
+            - longest common subsequence
+    - data structures:
+        - graphs
+            - depth first search
+            - breadth first search
+            - topological sorting (acyclic graph, at least 1 node with in-degree 0)
+            - max flow
+            - all pair shortest paths (just call single source shortest paths V times and return table of tables)
+        - disjoint sets
+        - red black tree
+        - hash table
+    - other:
+        - convert min/max heap combo into just a min heap (maybe with decreaseKey supported too)
+        - comment graph.h
+        - fix up dijkstra's algorithm
